@@ -9,7 +9,7 @@
 | <img src="https://avatars.githubusercontent.com/u/152046800?v=4" width=400px alt="조은성"/> | <img src="https://avatars.githubusercontent.com/u/134928447?v=4" width=400px alt="윤수빈"/> | <img src="https://avatars.githubusercontent.com/u/90615404?v=4" width=400px alt="임찬울"/> | <img src="https://avatars.githubusercontent.com/u/157683508?v=4" width=400px alt="고영상"> | <img src="https://avatars.githubusercontent.com/u/159097835?v=4" width=400px alt="박진현"> |
 |                       [Cho EunSeong](https://github.com/eunseongjo)                        |                            [Yoon Soobin](https://github.com/nunu1101)                            |                            [Lim ChanWool](https://github.com/cwul94)                            |                          [Go YoungSang](https://github.com/moass2024)                           |                         [Park JinHyun](https://github.com/0COK0)                         |
 
-## Project Read ME
+## Project Read me
 ### ** 근태관리 시스템 **
 ### ** 근태 관리 시스템 동작 원리 **
 1. 출결 현황 체크 후 인사고과시 출결점수 반영
