@@ -35,6 +35,8 @@
   
 ![스프린트 추적](https://github.com/dotCodeTeam/dotCode/assets/134928447/677a7ba9-dab5-48bd-96ad-d47e2aceed4b)
 
+** 2. 두번재 프로젝트 회의 : DataBase Modeling
+![스프린트 추적](https://github.com/dotCodeTeam/dotCode/assets/134928447/e204e397-f90b-49b6-a1ca-af02875e4741)
 ## TeamColor 🏠
 
 #### 1. 적극적 코드리뷰
