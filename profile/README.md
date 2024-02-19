@@ -9,12 +9,15 @@
 | <img src="https://avatars.githubusercontent.com/u/152046800?v=4" width=400px alt="조은성"/> | <img src="https://avatars.githubusercontent.com/u/134928447?v=4" width=400px alt="윤수빈"/> | <img src="https://avatars.githubusercontent.com/u/90615404?v=4" width=400px alt="임찬울"/> | <img src="https://avatars.githubusercontent.com/u/157683508?v=4" width=400px alt="고영상"> | <img src="https://avatars.githubusercontent.com/u/159097835?v=4" width=400px alt="박진현"> |
 |                       [Cho EunSeong](https://github.com/eunseongjo)                        |                            [Yoon Soobin](https://github.com/nunu1101)                            |                            [Lim ChanWool](https://github.com/cwul94)                            |                          [Go YoungSang](https://github.com/moass2024)                           |                         [Park JinHyun](https://github.com/0COK0)                         |
 
+## Project Result
+(프로젝트 결과물)
+
 ## Project Schedule
 |날짜|스케쥴명|내용|
 |------|---|---|
 |24.02.16|첫 프로젝트 회의|출결 시스템 DB 회의/ git hub oranization 생성 및 read me 작성|
 |24.02.19|두번째 프로젝트 회의|DA#을 활용한 Database 모델링 작업|
-|테스트1|테스트2|테스트3|
+||||
 
 ## Project Tech Stack 💡
 ### ✔️Back-end
@@ -30,13 +33,19 @@
 </div>
 
 ## Project Management Method
-** 1. 첫 프로젝트 회의 : 큰 틀 잡기 **
+** 1-1. 첫 프로젝트 회의 : 큰 틀 잡기 **
 - [전체 보기](https://docs.google.com/spreadsheets/d/1YogkHXzy_kJyizxFvUkbJNSwWlOVim1U43TBdAWUXFI/edit?usp=sharing)
   
 ![스프린트 추적](https://github.com/dotCodeTeam/dotCode/assets/134928447/4ab9f1c0-c943-403f-88fb-041f03417b8a)
 
-** 2. 두번째 프로젝트 회의 : DataBase Modeling
+** 1-2. 두번째 프로젝트 회의 : DataBase Modeling
 ![스프린트 추적](https://github.com/dotCodeTeam/dotCode/assets/134928447/e204e397-f90b-49b6-a1ca-af02875e4741)
+
+** 3. 스크럼 보드 **
+
+** 4. 번다운 차트 **
+
+** 5. 기타 내용 **
 ## TeamColor 🏠
 
 #### 1. 적극적 코드리뷰
@@ -53,3 +62,10 @@
 #### 1. 다른사람 Application 건들지 않기
 #### 2.  커밋하기전에 변경사항 확인하기
 #### 3. 프로젝트 오픈시 Pull 우선적으로 받기
+
+## Impression (느낀점)
+- 조은성 :
+- 윤수빈 :
+- 임찬울 :
+- 고영상 :
+- 박진현 : 
