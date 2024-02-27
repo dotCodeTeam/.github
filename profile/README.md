@@ -67,13 +67,16 @@
 
 ** 1-3. DataBase Modeling
 - [단계별 보기](https://docs.google.com/spreadsheets/d/1C87q15x0XjstHbo-en2ivPs50yKtqrOh5AFT1MqlvHg/edit?usp=sharing)
-![스프린트 추적](https://github.com/dotCodeTeam/dotCode/assets/134928447/e204e397-f90b-49b6-a1ca-af02875e4741)
+ 
+#### <논리모델>
+![스프린트 추적](https://github.com/dotCodeTeam/ams-project-database/assets/134928447/81fa96c9-122d-48ab-a6b2-5167ee60f5c6)
+
+#### <물리모델>
+![스프린트 추적](https://github.com/dotCodeTeam/ams-project-database/assets/134928447/470f7235-3f7b-44fd-807d-097d0e255ade)
 
 ** 3. 스크럼 보드 **
 
-** 4. 번다운 차트 **
-
-** 5. 기타 내용 **
+** 4. 기타 내용 **
 ## TeamColor 🏠
 
 #### 1. 적극적 코드리뷰
