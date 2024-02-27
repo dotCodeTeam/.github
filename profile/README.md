@@ -5,8 +5,9 @@
 |                       [Cho EunSeong](https://github.com/eunseongjo)                        |                            [Yoon Soobin](https://github.com/nunu1101)                            |                            [Lim ChanWool](https://github.com/cwul94)                            |                          [Go YoungSang](https://github.com/moass2024)                           |                         [Park JinHyun](https://github.com/0COK0)                         |
 
 ## About Our Project..
-1. Laudry Machine (객체지향프로그램)
-2. AMS(Attendance Management System) (OOP+JDBC)
+#### 1. Laudry Machine (객체지향프로그램)
+#### 2. AMS(Attendance Management System) (OOP+JDBC)
+
 ## TeamColor 🏠
 
 #### 1. 적극적 코드리뷰
