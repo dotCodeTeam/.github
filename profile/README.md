@@ -21,9 +21,10 @@
 ## Documents
 
 ## GitRule
-#### 1. 다른사람 Application 건들지 않기
-#### 2.  커밋하기전에 변경사항 확인하기
-#### 3. 프로젝트 오픈시 Pull 우선적으로 받기
+#### 1. 커밋하기전에 변경사항(Changes) 확인해주세요.  at intellij 
+#### 2. 프로젝트 오픈 시 pull 먼저 받아주세요
+#### 3. 이슈 발생 시, 귀찮더라도 꼭 Git issue 추가해 주세요
+#### 4. Merge Request 수락은 본인 스스로 하지 않아요
 
 ## Impression (느낀점)
 - 조은성 :
