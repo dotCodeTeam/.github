@@ -1,4 +1,4 @@
-<div align = center><img src ="https://github.com/dotCodeTeam/.github/assets/134928447/57d9425d-2094-4775-ab68-67c03cfb7dcf"></div>
+<div align = center><img src ="https://github.com/dotCodeTeam/.github/assets/134928447/516499bd-f9f7-4761-a9ca-a5af67f0bd0c"></div>
 
 ## Member of dotCode 👨‍👨‍👧‍👧
 |                                         General Manager                                          |                                         Database Manager                                          |                                         Configuration Manager                                          |                                         Moderator                                         |                                       Project Manager                                        | 
